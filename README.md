@@ -38,8 +38,9 @@ O projeto segue uma separação clara de responsabilidades:
 ## 📊 Diagrama de Classes
 
 O projeto foi modelado previamente com diagrama de classes (UML), reforçando o design orientado a objetos.
+<img width="823" height="657" alt="diagrama" src="https://github.com/user-attachments/assets/de3210b2-3e2b-483b-ae5a-60253c0aea4f" />
 
-  <img width="770" height="691" alt="diagrama" src="https://github.com/user-attachments/assets/57613bbc-4be4-4ba6-9d63-674d71998e6b" />
+ 
 
 
 ---
