@@ -1,4 +1,4 @@
-# 💰 Sistema Bancário em Java (POO)
+##  SISTEMA BANCÁRIO EM JAVA ☕ 💰(POO)
 
 Projeto pessoal desenvolvido em Java com foco em **Programação Orientada a Objetos**, simulando as operações básicas de um sistema bancário via console.
 
@@ -46,7 +46,7 @@ O projeto foi modelado previamente com diagrama de classes (UML), reforçando o 
 
 ## 🛠️ Tecnologias Utilizadas
 
--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<Center>-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></Center>
 
 
 ---
